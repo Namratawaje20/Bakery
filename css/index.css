@@ -87,7 +87,7 @@ main {
     display: flex;
     justify-content: space-between;
     gap: 20px;
-    overflow-x: auto; /* Allows horizontal scrolling if needed */
+    overflow-x: auto; 
 }
 
 .card {
@@ -97,6 +97,7 @@ main {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     padding: 20px;
     text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .card img {
@@ -105,6 +106,13 @@ main {
     margin: 10px auto;
     display: block;
 }
+
+
+.card:hover {
+    transform: translateY(-10px); 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); 
+}
+
 
 footer {
     background-color: #d6a4a4;
