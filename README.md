@@ -4,16 +4,16 @@ Welcome to Swapnali's Bakery Boutique!
 
 This is a family-owned bakery committed to crafting delicious and high-quality baked goods with love and care. We specialize in a variety of treats, including freshly baked bread, decadent cakes, and delightful pastries. Each item is made with the finest ingredients to ensure that every bite is a moment of pure indulgence.
 
-![HomepageScreenshot] ![alt text](images/Home-page-Screenshot1.png)
+ ![HomePageScreenshot](<images/Screenshot (291).png>) 
 
-![HomepageScreenshot] ![alt text](images/Home-page-Screenshot2.png)
+![HomePageScreenshot](<images/Screenshot (292).png>)
 
 ## Menu
 **Our Menu:**
 
 At Swapnali's Bakery Boutique, we offer a delightful selection of baked goods, each crafted with the finest ingredients and baked to perfection. Whether you’re in the mood for something sweet, savory, or a little bit of both, our menu has something to satisfy every craving.
 
-![MenupageScreenshot] ![alt text](images/Menu-page.png)
+ ![MenupageScreenshot](images/Menu-page.png)
 
 Description provides an overview of the offerings on the menu page, highlighting the variety of items available and the quality and care that goes into each product.
 
@@ -32,7 +32,7 @@ Made with [contrib.rocks](https://contrib.rocks).
 We’d Love to Hear From You!
 At Swapnali's Bakery Boutique, your satisfaction is our top priority. Whether you have a question, need assistance with an order, or just want to share your feedback, we're here to help. Reach out to us using any of the methods below, and we'll get back to you as soon as possible.
 
-![contactpageScreenshot] ![alt text](images/contact-page.png)
+ ![contactpageScreenshot](images/contact-page.png)
 
 **Swapnali's Bakery Boutique:**
 
